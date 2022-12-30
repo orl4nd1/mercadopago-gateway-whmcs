@@ -1,0 +1,33 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-gateways",
+  "name": "mercadopago",
+  "license": "proprietary",
+  "category": "payments",
+  "description": {
+    "name": "MercadoPago",
+    "tagline": "Módulo Gateway Mercadopago Multi-País con callback (IPN)",
+    "long": "El gateway de MercadoPago más completo. Multi-país y con información automática de pago.",
+    "features": [
+      "Actualizaciones constantes",
+      "Maneja hasta 9 cuentas individuales de MercadoPago",
+      "Posibilidad de utilizar más de una cuenta del mismo país",
+      "100% personalizable desde el panel de control",
+      "Panel de configuración en Español, Portugués e Inglés",
+      "Discrimina la comisión de Mercadopago para mayor información",
+      "Sistema de verificación que evita pagos duplicados",
+      "Utiliza la última versión de la API de MercadoPago",
+      "Adaptación a los sistemas monetarios de cada país",
+      "Soporte técnico permanente"
+    ]
+  },
+  "logo": {
+    "filename": "mercadopago.png"
+  },
+  "authors": [
+    {
+      "name": "MercadoPago orlandi.dev",
+      "homepage": "https:\/\/orlandi.dev\/"
+    }
+  ]
+}
